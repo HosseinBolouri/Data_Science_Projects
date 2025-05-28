@@ -13,4 +13,4 @@ Data Science portfolio: SQL, Python, and soon ML projects from DataCamp and Data
 - Passionate about applying Data Science to real-world challenges.
 
 ## Connect
-- LinkedIn: (https://www.linkedin.com/in/hossein-bolouri)
+- [LinkedIn](https://www.linkedin.com/in/hossein-bolouri)
