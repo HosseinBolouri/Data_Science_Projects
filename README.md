@@ -1,6 +1,6 @@
 # Data Science Projects
 
-Data Science portfolio: SQL, Python, and soon ML projects from DataCamp and Data Analyst role at STMicroelectronics. Explore my work on data analysis. Connect on (https://www.linkedin.com/in/hossein-bolouri)!
+Data Science portfolio: SQL, Python, and soon ML projects from DataCamp and Data Analyst role at STMicroelectronics. Explore my work on data analysis.
 
 ## Projects
 ### 1. Investigating Netflix Data for 90s
