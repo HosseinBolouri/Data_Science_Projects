@@ -1,2 +1,15 @@
-# Data_Science_Projects
-Data Science portfolio: SQL, Python, and soon ML projects from DataCamp and Data Analysis roles at STMicroelectronics. Explore my work on Data Analysis and Data Science. Connect on LinkedIn!
+# Data Science Projects
+
+Data Science portfolio: SQL, Python, and soon ML projects from DataCamp and Data Analyst role at STMicroelectronics. Explore my work on data analysis. Connect on (https://www.linkedin.com/in/hossein-bolouri)!
+
+## Projects
+### 1. Investigating Netflix Data for 90s
+- Performing exploratory data analysis for a production company to uncover insights about movies from a particular decade (90s).
+
+## About Me
+- Currently a Data Analyst at STMicroelectronics.
+- M.Sc. in Industrial Engineering from Politecnico di Milano in Italy and KIT University in Germany (graduated Jul 2024).
+- Passionate about applying Data Science to real-world challenges.
+
+## Connect
+- LinkedIn: (https://www.linkedin.com/in/hossein-bolouri)
