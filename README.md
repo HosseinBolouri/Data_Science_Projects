@@ -5,6 +5,7 @@ Data Science portfolio: SQL, Python, and soon ML projects from DataCamp and Data
 ## Projects
 ### 1. Investigating Netflix Data for 90s
 - Performing exploratory data analysis for a production company to uncover insights about movies from a particular decade (90s).
+[Notebook](Investigating_Netflix_Original.ipynb)
 
 ## About Me
 - Currently a Data Analyst at STMicroelectronics.
