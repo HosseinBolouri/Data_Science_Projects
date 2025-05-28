@@ -9,7 +9,7 @@ Data Science portfolio: SQL, Python, and soon ML projects from DataCamp and Data
 
 ## About Me
 - Currently a Data Analyst at STMicroelectronics.
-- M.Sc. in Industrial Engineering from Politecnico di Milano in Italy and KIT University in Germany (graduated Jul 2024).
+- M.Sc. in Industrial Engineering- Data Analytics from Politecnico di Milano in Italy and KIT University in Germany (graduated Jul 2024).
 - Passionate about applying Data Science to real-world challenges.
 
 ## Connect
