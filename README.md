@@ -7,7 +7,7 @@ Data Science portfolio: SQL, Python, and soon ML projects from DataCamp and Data
 - Performing exploratory data analysis for a production company (Netflix data) to uncover insights about movies from a particular decade (90s).
 [Notebook](Investigating_Netflix_Original.ipynb)
 ### 2. International Students Mental Health Analysis
-- Analyzed the impact of stay duration on international students’ mental health using PostgreSQL.[Notebook](Project_SQL_Original_Students_Mental_Health.ipynb)
+- Analyzed the impact of stay duration on international students’ mental health using PostgreSQL. [Notebook](Project_SQL_Original_Students_Mental_Health.ipynb)
 
 ## About Me
 - Currently a Data Analyst at STMicroelectronics.
