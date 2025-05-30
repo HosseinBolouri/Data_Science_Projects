@@ -8,6 +8,8 @@ Data Science portfolio: SQL, Python, and soon ML projects from DataCamp and Data
 [Notebook](Investigating_Netflix_Original.ipynb)
 ### 2. International Students Mental Health Analysis
 - Analyzed the impact of stay duration on international students’ mental health using PostgreSQL. [Notebook](Project_SQL_Original_Students_Mental_Health.ipynb)
+### 3. NYC Public School SAT Performance Analysis
+- Analyzed NYC public school SAT performance using Pandas to identify top math schools, overall best schools, and borough variability. [Notebook](NYC_Project_DataCamp.ipynb)
 
 ## About Me
 - Currently a Data Analyst at STMicroelectronics.
