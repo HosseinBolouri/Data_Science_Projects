@@ -10,6 +10,8 @@ Data Science portfolio: SQL, Python, and soon ML projects from DataCamp and Data
 - Analyzed the impact of stay duration on international students’ mental health using PostgreSQL. [Notebook](Project_SQL_Original_Students_Mental_Health.ipynb)
 ### 3. NYC Public School SAT Performance Analysis
 - Analyzed NYC public school SAT performance using Pandas to identify top math schools, overall best schools, and borough variability. [Notebook](NYC_Project_DataCamp.ipynb)
+### 4. Two-Way ANOVA: Braking Performance Analysis
+- Conducted a two-way ANOVA to analyze braking performance, assessing the impact of multiple factors using Python (SciPy, Pandas). [Notebook](ANOVA_2_Ways_Braking_Example.ipynb)
 
 ## About Me
 - Currently a Data Analyst at STMicroelectronics.
