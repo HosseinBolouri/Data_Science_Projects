@@ -11,7 +11,7 @@ Data Science portfolio: SQL, Python, and soon ML projects from DataCamp and Data
 ### 3. NYC Public School SAT Performance Analysis
 - Analyzed NYC public school SAT performance using Pandas to identify top math schools, overall best schools, and borough variability. [Notebook](NYC_Project_DataCamp.ipynb)
 ### 4. Two-Way ANOVA: Braking Performance Analysis
-- Conducted a two-way ANOVA to analyze braking performance, assessing the impact of multiple factors using Python (SciPy, Pandas). [Notebook](ANOVA_2_Ways_Braking_Example.ipynb)
+- Conducted a two-way ANOVA to analyze braking performance, assessing the impact of multiple factors using Python (SciPy, Pandas). [Notebook](https://github.com/HosseinBolouri/Data_Science_Projects/blob/main/ANOVA%202%20ways-%20braking%20example.ipynb)
 
 ## About Me
 - Currently a Data Analyst at STMicroelectronics.
