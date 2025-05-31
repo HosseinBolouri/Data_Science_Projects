@@ -1,6 +1,6 @@
 # Data Science & Data Analysis Projects
 
-Data Science portfolio: SQL, Python, and soon ML projects from DataCamp and Data Analyst role at STMicroelectronics. Explore my work on data analysis.
+Data Science portfolio showcasing SQL, Python (Pandas, SciPy, stats), and upcoming ML projects from DataCamp and my Data Analyst role at STMicroelectronics. Explore my work on data analysis projects.
 
 ## Projects
 ### 1. Investigating Netflix Data for 90s
