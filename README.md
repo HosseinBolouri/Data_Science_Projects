@@ -14,7 +14,7 @@ Data Science portfolio showcasing SQL, Python (Pandas, SciPy, stats), and upcomi
 - Conducted a two-way ANOVA to analyze braking performance, assessing the impact of multiple factors using Python (SciPy, Pandas). [Notebook](https://github.com/HosseinBolouri/Data_Science_Projects/blob/main/ANOVA%202%20ways-%20braking%20example.ipynb)
 
 ## About Me
-- Currently a Data Analyst at STMicroelectronics.
+- Currently a Data Analyst and Software Developer at STMicroelectronics.
 - M.Sc. in Industrial Engineering- Data Analytics from Politecnico di Milano in Italy and KIT University in Germany (graduated Jul 2024).
 - Passionate about applying Data Science to real-world problems.
 
