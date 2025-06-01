@@ -20,3 +20,4 @@ Data Science portfolio showcasing SQL, Python (Pandas, SciPy, stats), and upcomi
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/hossein-bolouri)
+- [Kaggle](https://www.kaggle.com/hosseinbolouri1996)
