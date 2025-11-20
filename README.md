@@ -6,7 +6,7 @@ Data Science portfolio showcasing SQL, Python (Pandas, SciPy, stats, numpy, matp
 ### 1. Univariate Linear Regression: City Profit Prediction (Supervised Learning)
 - Implements linear regression from scratch (manual cost and gradient) to predict company profit based on city population (dataset: ex1data1.txt).
 - Uses gradient descent (alpha=0.01, iterations=1500), plots learning data and fitted line, and predicts profit for populations of 35,000 and 70,000.
-- Notebook: [Supervise_Learning_V1.ipynb](Supervise_Learning_V1.ipynb)
+- Notebook: [Univariate Linear Regression City Profit Prediction.ipynb](Univariate%20Linear%20Regression%20City%20Profit%20Prediction.ipynb)
 
 ### 2. Investigating Netflix Data for 90s
 - Exploratory data analysis of Netflix movies from the 1990s.
