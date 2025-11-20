@@ -27,7 +27,7 @@ Data Science portfolio showcasing SQL, Python (Pandas, SciPy, stats, numpy, matp
 ## About Me
 - Data Scientist and Software Developer at STMicroelectronics.
 - M.Sc. Industrial Engineering - Data Analytics Specialization (Politecnico di Milano & KIT in Italy and Germany, Jul 2024).
-- Focused on applying Data Science and ML to real-world problems.
+- Focused on applying Data Science, Data Analysis and ML to real-world problems.
 
 ## Tech Stack Highlights
 - Python (Pandas, NumPy, SciPy, Matplotlib, TensorFlow)
