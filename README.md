@@ -1,4 +1,4 @@
-# Data Science & Data Analysis Projects
+# Data Science, Machine Learning & Data Analysis Projects
 
 Data Science portfolio showcasing SQL, Python (Pandas, SciPy, stats, numpy, matplotlib, TensorFlow), and Machine Learning (ML) projects from DataCamp, Coursera, and my Data Science role at STMicroelectronics.
 
