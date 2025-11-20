@@ -22,19 +22,28 @@ Data Science portfolio showcasing SQL, Python (Pandas, SciPy, stats, numpy, matp
 - Uses TensorFlow: SparseCategoricalCrossentropy (from_logits), Adam optimizer, loss curve, sample predictions, accuracy via error count.
 - Notebook: [Multi_Class_Neural_Network.ipynb](Multi_Class_Neural_Network.ipynb)
 
-### 5. Investigating Netflix Data for 90s
+### 5. Tree Ensembles: Heart Disease Prediction (Decision Tree, Random Forest, XGBoost)
+- Dataset: Kaggle Heart Failure Prediction (11 clinical + categorical risk features; target HeartDisease).
+- Feature engineering: Pandas one-hot encoding for categorical vars (Sex, ChestPainType, RestingECG, ExerciseAngina, ST_Slope); binary variables retained; expansion increases feature count beyond original 11.
+- Decision Tree: varied min_samples_split and max_depth to study bias/variance trade-off; selected balanced parameters (e.g. max_depth≈4, min_samples_split≈50) to reduce overfitting.
+- Random Forest: explored min_samples_split, max_depth, n_estimators (10–500); improved generalization versus single tree; tuned for reduced gap between train/validation accuracy.
+- XGBoost: gradient boosting with early stopping (eval_set split from training data, early_stopping_rounds=10); monitored best_iteration to prevent overfitting; fewer effective estimators than initial n_estimators (e.g. stopped well before 500).
+- Evaluation: accuracy comparisons across models; demonstrates effect of structural regularization (depth limits), ensemble averaging, and boosting with early stopping.
+- Notebook: [Trees_Ensemble.ipynb](https://github.com/HosseinBolouri/data-science-ml-projects/blob/main/Trees_Ensemble.ipynb)
+
+### 6. Investigating Netflix Data for 90s
 - Exploratory data analysis of Netflix movies from the 1990s.
 - Notebook: [Investigating_Netflix_Original.ipynb](Investigating_Netflix_Original.ipynb)
 
-### 6. International Students Mental Health Analysis (SQL Project)
+### 7. International Students Mental Health Analysis (SQL Project)
 - PostgreSQL analysis on impact of stay duration on mental health.
 - Notebook: [Project_SQL_Original_Students_Mental_Health.ipynb](Project_SQL_Original_Students_Mental_Health.ipynb)
 
-### 7. NYC Public School SAT Performance Analysis
+### 8. NYC Public School SAT Performance Analysis
 - Pandas analysis to identify top math schools, overall best schools, borough variability.
 - Notebook: [NYC_Project_DataCamp.ipynb](NYC_Project_DataCamp.ipynb)
 
-### 8. Two-Way ANOVA: Braking Performance Analysis
+### 9. Two-Way ANOVA: Braking Performance Analysis
 - Two-way ANOVA using SciPy and Pandas.
 - Notebook: [ANOVA 2 ways- braking example.ipynb](ANOVA%202%20ways-%20braking%20example.ipynb)
 
