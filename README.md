@@ -1,26 +1,30 @@
 # Data Science, Machine Learning & Data Analysis Projects
 
-Data Science portfolio showcasing SQL, Python (Pandas, SciPy, stats, numpy, matplotlib, TensorFlow), Machine Learning (ML) and Data Analysis projects from DataCamp, Coursera, and my Data Science role at STMicroelectronics.
+Data Science portfolio showcasing SQL, Python (Pandas, SciPy, stats, numpy, matplotlib, TensorFlow), Machine Learning (ML) and Data Analysis projects from DataCamp, Coursera, and independent data science work.
 
 ## Projects
 ### 1. Univariate Linear Regression: City Profit Prediction (Supervised Learning)
 - Implements linear regression from scratch (manual cost and gradient) to predict company profit based on city population (dataset: ex1data1.txt).
-- Uses gradient descent (alpha=0.01, iterations=1500), plots learning data and fitted line, and predicts profit for populations of 35,000 and 70,000.
+- Uses gradient descent (alpha=0.01, iterations=1500), plots training data and fitted line, and predicts profit for populations of 35,000 and 70,000.
 - Notebook: [Univariate Linear Regression City Profit Prediction.ipynb](Univariate%20Linear%20Regression%20City%20Profit%20Prediction.ipynb)
 
-### 2. Investigating Netflix Data for 90s
+### 2. Logistic Regression: Exam Admission Classification (Supervised Learning)
+- Classifies student admission (0/1) from two exam scores using logistic regression implemented from scratch (sigmoid, unregularized cost & gradient, gradient descent, decision boundary, accuracy).
+- Notebook: [Logistcs_Regression_Students.ipynb](Logistcs_Regression_Students.ipynb)
+
+### 3. Investigating Netflix Data for 90s
 - Exploratory data analysis of Netflix movies from the 1990s.
 - Notebook: [Investigating_Netflix_Original.ipynb](Investigating_Netflix_Original.ipynb)
 
-### 3. International Students Mental Health Analysis (SQL Project)
+### 4. International Students Mental Health Analysis (SQL Project)
 - PostgreSQL analysis on impact of stay duration on mental health.
 - Notebook: [Project_SQL_Original_Students_Mental_Health.ipynb](Project_SQL_Original_Students_Mental_Health.ipynb)
 
-### 4. NYC Public School SAT Performance Analysis
+### 5. NYC Public School SAT Performance Analysis
 - Pandas analysis to identify top math schools, overall best schools, borough variability.
 - Notebook: [NYC_Project_DataCamp.ipynb](NYC_Project_DataCamp.ipynb)
 
-### 5. Two-Way ANOVA: Braking Performance Analysis
+### 6. Two-Way ANOVA: Braking Performance Analysis
 - Two-way ANOVA using SciPy and Pandas.
 - Notebook: [ANOVA 2 ways- braking example.ipynb](ANOVA%202%20ways-%20braking%20example.ipynb)
 
