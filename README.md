@@ -1,6 +1,6 @@
 # Data Science, Machine Learning & Data Analysis Projects
 
-Data Science portfolio showcasing SQL, Python (Pandas, SciPy, stats, numpy, matplotlib, TensorFlow), Machine Learning (ML) and Data Analysis projects from DataCamp, Coursera, and independent data science work.
+Data Science portfolio showcasing SQL, Python (Pandas, SciPy, stats, numpy, matplotlib, TensorFlow, scikit-learn), Machine Learning (ML) and Data Analysis projects from DataCamp, Coursera, and independent data science work.
 
 ## Projects
 ### 1. Univariate Linear Regression: City Profit Prediction (Supervised Learning)
