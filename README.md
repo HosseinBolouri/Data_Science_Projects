@@ -17,25 +17,30 @@ Data Science portfolio showcasing SQL, Python (Pandas, SciPy, stats, numpy, matp
 - Implements feature mapping, regularized cost/gradient, gradient descent, non-linear decision boundary, and training accuracy (dataset: ex1data3.txt).
 - Notebook: [Logistic_Regression_Microchips.ipynb](Logistic_Regression_Microchips.ipynb)
 
-### 4. Investigating Netflix Data for 90s
+### 4. Multi-Class Neural Network: Handwritten Digit Classification
+- Dense neural network (25 -> 15 -> 10 logits) for 0–9 digit recognition on 20x20 grayscale images (flattened to 400 features).
+- Uses TensorFlow: SparseCategoricalCrossentropy (from_logits), Adam optimizer, loss curve, sample predictions, accuracy via error count.
+- Notebook: [Multi_Class_Neural_Network.ipynb](Multi_Class_Neural_Network.ipynb)
+
+### 5. Investigating Netflix Data for 90s
 - Exploratory data analysis of Netflix movies from the 1990s.
 - Notebook: [Investigating_Netflix_Original.ipynb](Investigating_Netflix_Original.ipynb)
 
-### 5. International Students Mental Health Analysis (SQL Project)
+### 6. International Students Mental Health Analysis (SQL Project)
 - PostgreSQL analysis on impact of stay duration on mental health.
 - Notebook: [Project_SQL_Original_Students_Mental_Health.ipynb](Project_SQL_Original_Students_Mental_Health.ipynb)
 
-### 6. NYC Public School SAT Performance Analysis
+### 7. NYC Public School SAT Performance Analysis
 - Pandas analysis to identify top math schools, overall best schools, borough variability.
 - Notebook: [NYC_Project_DataCamp.ipynb](NYC_Project_DataCamp.ipynb)
 
-### 7. Two-Way ANOVA: Braking Performance Analysis
+### 8. Two-Way ANOVA: Braking Performance Analysis
 - Two-way ANOVA using SciPy and Pandas.
 - Notebook: [ANOVA 2 ways- braking example.ipynb](ANOVA%202%20ways-%20braking%20example.ipynb)
 
 ## About Me
 - Data Scientist with experience in analytics, statistical modeling, machine learning, and data analysis projects.
-- M.Sc. Industrial Engineering - Data Analytics Specialization (Politecnico di Milano & KIT in Italy and Germany, Jul 2024).
+- M.Sc. Industrial Engineering - Data Analytics Specialization (Politecnico di Milano & KIT, Jul 2024).
 - Focused on applying Data Science, Data Analysis and ML to real-world problems.
 
 ## Tech Stack Highlights
