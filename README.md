@@ -22,13 +22,16 @@ Data Science portfolio showcasing SQL, Python (Pandas, SciPy, stats, numpy, matp
 - Uses TensorFlow: SparseCategoricalCrossentropy (from_logits), Adam optimizer, loss curve, sample predictions, accuracy via error count.
 - Notebook: [Multi_Class_Neural_Network.ipynb](Multi_Class_Neural_Network.ipynb)
 
-### 5. Tree Ensembles: Heart Disease Prediction (Decision Tree, Random Forest, XGBoost)
-- Dataset: Kaggle Heart Failure Prediction (11 clinical + categorical risk features; target HeartDisease).
-- Feature engineering: Pandas one-hot encoding for categorical vars (Sex, ChestPainType, RestingECG, ExerciseAngina, ST_Slope); binary variables retained; expansion increases feature count beyond original 11.
-- Decision Tree: varied min_samples_split and max_depth to study bias/variance trade-off; selected balanced parameters (e.g. max_depth≈4, min_samples_split≈50) to reduce overfitting.
-- Random Forest: explored min_samples_split, max_depth, n_estimators (10–500); improved generalization versus single tree; tuned for reduced gap between train/validation accuracy.
-- XGBoost: gradient boosting with early stopping (eval_set split from training data, early_stopping_rounds=10); monitored best_iteration to prevent overfitting; fewer effective estimators than initial n_estimators (e.g. stopped well before 500).
-- Evaluation: accuracy comparisons across models; demonstrates effect of structural regularization (depth limits), ensemble averaging, and boosting with early stopping.
+### 5. Tree Ensembles: Heart Disease Prediction
+- Dataset: Kaggle Heart Failure Prediction (11 original clinical + categorical features → expanded via one-hot encoding).
+- Preprocessing: Pandas one-hot encoding (Sex, ChestPainType, RestingECG, ExerciseAngina, ST_Slope).
+- Models: Decision Tree, Random Forest, XGBoost (gradient boosting).
+- Key tuning:
+  - Depth / min_samples_split to control variance (tree).
+  - n_estimators, depth for Random Forest (bias–variance balance).
+  - Early stopping (eval_set + early_stopping_rounds=10) for XGBoost to prevent overfitting; best_iteration tracked.
+- Evaluation: Accuracy comparison across models; ensembles improved generalization vs single tree.
+- Insight: Structural limits (max_depth), averaging (Random Forest) and staged boosting + early stopping (XGBoost) progressively reduce overfitting.
 - Notebook: [Trees_Ensemble.ipynb](https://github.com/HosseinBolouri/data-science-ml-projects/blob/main/Trees_Ensemble.ipynb)
 
 ### 6. Investigating Netflix Data for 90s
@@ -53,7 +56,7 @@ Data Science portfolio showcasing SQL, Python (Pandas, SciPy, stats, numpy, matp
 - Focused on applying Data Science, Data Analysis and ML to real-world problems.
 
 ## Tech Stack Highlights
-- Python (Pandas, NumPy, SciPy, Matplotlib, TensorFlow)
+- Python (Pandas, NumPy, SciPy, Matplotlib, TensorFlow, scikit-learn)
 - SQL (PostgreSQL)
 - Statistical analysis & ML algorithms
 
