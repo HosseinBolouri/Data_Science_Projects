@@ -25,7 +25,7 @@ Data Science portfolio showcasing SQL, Python (Pandas, SciPy, stats, numpy, matp
 - Notebook: [ANOVA 2 ways- braking example.ipynb](ANOVA%202%20ways-%20braking%20example.ipynb)
 
 ## About Me
-- Data Scientist and Software Developer at STMicroelectronics.
+- Data Scientist with experience in analytics, statistical modeling, machine learning, and data analysis projects.
 - M.Sc. Industrial Engineering - Data Analytics Specialization (Politecnico di Milano & KIT in Italy and Germany, Jul 2024).
 - Focused on applying Data Science, Data Analysis and ML to real-world problems.
 
