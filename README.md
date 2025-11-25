@@ -27,26 +27,30 @@ Data Science portfolio showcasing SQL, Python (Pandas, SciPy, stats, numpy, matp
 - Preprocessing: Pandas one-hot encoding (Sex, ChestPainType, RestingECG, ExerciseAngina, ST_Slope).
 - Models: Decision Tree, Random Forest, XGBoost (gradient boosting).
 - Key tuning:
-  - Depth / min_samples_split to control variance (tree).
-  - n_estimators, depth for Random Forest (bias–variance balance).
-  - Early stopping (eval_set + early_stopping_rounds=10) for XGBoost to prevent overfitting; best_iteration tracked.
-- Evaluation: Accuracy comparison across models; ensembles improved generalization vs single tree.
-- Insight: Structural limits (max_depth), averaging (Random Forest) and staged boosting + early stopping (XGBoost) progressively reduce overfitting.
+  - Depth / min_samples_split (tree).
+  - n_estimators, depth (Random Forest).
+  - Early stopping (eval_set + early_stopping_rounds=10) for XGBoost.
+- Evaluation: Accuracy comparison; ensembles vs single tree.
+- Insight: Depth limits variance; averaging and boosting improve generalization.
 - Notebook: [Trees_Ensemble.ipynb](https://github.com/HosseinBolouri/data-science-ml-projects/blob/main/Trees_Ensemble.ipynb)
 
-### 6. Investigating Netflix Data for 90s
+### 6. Decision Tree From Scratch: Mushroom Edibility
+- Implements entropy, information gain, manual dataset splitting and recursive tree construction (max depth = 2) without scikit-learn on a tiny illustrative one-hot encoded mushroom dataset (10 samples, 3 binary features). Educational; not for real-world identification (Coursera Advanced Learning Task).
+- Notebook: [Decision Tree From Scratch (Mushroom Classification).ipynb](https://github.com/HosseinBolouri/data-science-ml-projects/blob/main/Decision%20Tree%20From%20Scratch%20(Mushroom%20Classification).ipynb)
+
+### 7. Investigating Netflix Data for 1990s
 - Exploratory data analysis of Netflix movies from the 1990s.
 - Notebook: [Investigating_Netflix_Original.ipynb](Investigating_Netflix_Original.ipynb)
 
-### 7. International Students Mental Health Analysis (SQL Project)
+### 8. International Students Mental Health Analysis (SQL Project)
 - PostgreSQL analysis on impact of stay duration on mental health.
 - Notebook: [Project_SQL_Original_Students_Mental_Health.ipynb](Project_SQL_Original_Students_Mental_Health.ipynb)
 
-### 8. NYC Public School SAT Performance Analysis
+### 9. NYC Public School SAT Performance Analysis
 - Pandas analysis to identify top math schools, overall best schools, borough variability.
 - Notebook: [NYC_Project_DataCamp.ipynb](NYC_Project_DataCamp.ipynb)
 
-### 9. Two-Way ANOVA: Braking Performance Analysis
+### 10. Two-Way ANOVA: Braking Performance Analysis
 - Two-way ANOVA using SciPy and Pandas.
 - Notebook: [ANOVA 2 ways- braking example.ipynb](ANOVA%202%20ways-%20braking%20example.ipynb)
 
