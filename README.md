@@ -25,17 +25,12 @@ Data Science portfolio showcasing SQL, Python (Pandas, SciPy, stats, numpy, matp
 ### 5. Tree Ensembles: Heart Disease Prediction
 - Dataset: Kaggle Heart Failure Prediction (11 original clinical + categorical features → expanded via one-hot encoding).
 - Preprocessing: Pandas one-hot encoding (Sex, ChestPainType, RestingECG, ExerciseAngina, ST_Slope).
-- Models: Decision Tree, Random Forest, XGBoost (gradient boosting).
-- Key tuning:
-  - Depth / min_samples_split (tree).
-  - n_estimators, depth (Random Forest).
-  - Early stopping (eval_set + early_stopping_rounds=10) for XGBoost.
-- Evaluation: Accuracy comparison; ensembles vs single tree.
-- Insight: Depth limits variance; averaging and boosting improve generalization.
+- Models: Decision Tree, Random Forest, XGBoost.
+- Tuning: depth/min_samples_split; n_estimators/depth; early stopping.
 - Notebook: [Trees_Ensemble.ipynb](https://github.com/HosseinBolouri/data-science-ml-projects/blob/main/Trees_Ensemble.ipynb)
 
 ### 6. Decision Tree From Scratch: Mushroom Edibility
-- Implements entropy, information gain, manual dataset splitting and recursive tree construction (max depth = 2) without scikit-learn on a tiny illustrative one-hot encoded mushroom dataset (10 samples, 3 binary features). Educational; not for real-world identification (Coursera Advanced Learning Task).
+- Implements entropy, information gain, manual splitting, recursive construction (max depth = 2) without scikit-learn on a tiny illustrative one-hot encoded mushroom dataset (10 samples, 3 binary features). Educational; not for real-world identification.
 - Notebook: [Decision Tree From Scratch (Mushroom Classification).ipynb](https://github.com/HosseinBolouri/data-science-ml-projects/blob/main/Decision%20Tree%20From%20Scratch%20(Mushroom%20Classification).ipynb)
 
 ### 7. Investigating Netflix Data for 1990s
@@ -55,9 +50,9 @@ Data Science portfolio showcasing SQL, Python (Pandas, SciPy, stats, numpy, matp
 - Notebook: [ANOVA 2 ways- braking example.ipynb](ANOVA%202%20ways-%20braking%20example.ipynb)
 
 ## About Me
-- Data Scientist with experience in analytics, statistical modeling, machine learning, and data analysis projects.
+- Data Scientist experienced in analytics, statistical modeling, machine learning, data analysis.
 - M.Sc. Industrial Engineering - Data Analytics Specialization (Politecnico di Milano & KIT, Jul 2024).
-- Focused on applying Data Science, Data Analysis and ML to real-world problems.
+- Focused on applying Data Science and ML to real-world problems.
 
 ## Tech Stack Highlights
 - Python (Pandas, NumPy, SciPy, Matplotlib, TensorFlow, scikit-learn)
