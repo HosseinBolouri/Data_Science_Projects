@@ -1,63 +1,63 @@
 # Data Science, Machine Learning & Data Analysis Projects
 
-Data Science portfolio showcasing SQL, Python (Pandas, SciPy, stats, numpy, matplotlib, TensorFlow, scikit-learn), Machine Learning (ML) and Data Analysis projects from DataCamp, Coursera, and independent data science work.
+Data Science portfolio showcasing Python (Pandas, NumPy, SciPy, stats, Matplotlib, TensorFlow, scikit-learn, TKinter), SQL (PostgreSQL), Machine Learning (ML), Statistical Analysis, and Exploratory Data Analysis projects from DataCamp, Coursera, STM professional work, and independent study.
 
 ## Projects
-### 1. Univariate Linear Regression: City Profit Prediction (Supervised Learning)
-- Implements linear regression from scratch (manual cost and gradient) to predict company profit based on city population (dataset: ex1data1.txt).
-- Uses gradient descent (alpha=0.01, iterations=1500), plots training data and fitted line, and predicts profit for populations of 35,000 and 70,000.
+### 1. STM Data Control Tower (Desktop EDA Application)
+- Tkinter GUI for exploratory data analysis (EDA) across product lines.
+- Functions: Excel ingestion, structured data manipulation (pandas/numpy), limit extraction, failure detection, multi dataset aggregation, distribution & trend plotting (matplotlib), automated outputs.
+- File: [Data_Control_Tower_V1_1.py](https://github.com/HosseinBolouri/data-science-ml-projects/blob/main/Data_Control_Tower_V1_1.py)
+
+### 2. Univariate Linear Regression: City Profit Prediction (Supervised Learning)
+- Linear regression from scratch (cost, gradient descent) to predict profit from population (ex1data1.txt).
 - Notebook: [Univariate Linear Regression City Profit Prediction.ipynb](Univariate%20Linear%20Regression%20City%20Profit%20Prediction.ipynb)
 
-### 2. Logistic Regression: Exam Admission Classification (Supervised Learning)
-- Classifies student admission (0/1) from two exam scores using logistic regression from scratch (sigmoid, unregularized cost & gradient, gradient descent, decision boundary, accuracy).
+### 3. Logistic Regression: Exam Admission Classification (Supervised Learning)
+- From-scratch logistic regression (sigmoid, cost, gradient, decision boundary).
 - Notebook: [Logistcs_Regression_Students.ipynb](Logistcs_Regression_Students.ipynb)
 
-### 3. Regularized Logistic Regression: Microchip Quality Classification
-- Predicts accepted vs rejected microchips using two test scores with polynomial feature mapping (degree 6) and L2 regularization.
-- Implements feature mapping, regularized cost/gradient, gradient descent, non-linear decision boundary, and training accuracy (dataset: ex1data3.txt).
+### 4. Regularized Logistic Regression: Microchip Quality Classification
+- Polynomial feature mapping (degree 6) + L2 regularization, custom cost/gradient.
 - Notebook: [Logistic_Regression_Microchips.ipynb](Logistic_Regression_Microchips.ipynb)
 
-### 4. Multi-Class Neural Network: Handwritten Digit Classification
-- Dense neural network (25 -> 15 -> 10 logits) for 0–9 digit recognition on 20x20 grayscale images (flattened to 400 features).
-- Uses TensorFlow: SparseCategoricalCrossentropy (from_logits), Adam optimizer, loss curve, sample predictions, accuracy via error count.
+### 5. Multi-Class Neural Network: Handwritten Digit Classification
+- TensorFlow dense net (400→25→15→10 logits), Adam, loss curve, accuracy.
 - Notebook: [Multi_Class_Neural_Network.ipynb](Multi_Class_Neural_Network.ipynb)
 
-### 5. Tree Ensembles: Heart Disease Prediction
-- Dataset: Kaggle Heart Failure Prediction (11 original clinical + categorical features → expanded via one-hot encoding).
-- Preprocessing: Pandas one-hot encoding (Sex, ChestPainType, RestingECG, ExerciseAngina, ST_Slope).
-- Models: Decision Tree, Random Forest, XGBoost.
-- Tuning: depth/min_samples_split; n_estimators/depth; early stopping.
+### 6. Tree Ensembles: Heart Disease Prediction
+- Kaggle Heart Failure dataset; Decision Tree vs Random Forest vs XGBoost (early stopping).
 - Notebook: [Trees_Ensemble.ipynb](https://github.com/HosseinBolouri/data-science-ml-projects/blob/main/Trees_Ensemble.ipynb)
 
-### 6. Decision Tree From Scratch: Mushroom Edibility
-- Implements entropy, information gain, manual splitting, recursive construction (max depth = 2) without scikit-learn on a tiny illustrative one-hot encoded mushroom dataset (10 samples, 3 binary features). Educational; not for real-world identification.
+### 7. Decision Tree From Scratch: Mushroom Edibility
+- Entropy, information gain, manual splits, depth-limited recursion (no scikit-learn) on tiny one-hot dataset (10 samples). Educational only.
 - Notebook: [Decision Tree From Scratch (Mushroom Classification).ipynb](https://github.com/HosseinBolouri/data-science-ml-projects/blob/main/Decision%20Tree%20From%20Scratch%20(Mushroom%20Classification).ipynb)
 
-### 7. Investigating Netflix Data for 1990s
-- Exploratory data analysis of Netflix movies from the 1990s.
+### 8. Investigating Netflix Data for 1990s
+- Exploratory analysis of 1990s Netflix titles.
 - Notebook: [Investigating_Netflix_Original.ipynb](Investigating_Netflix_Original.ipynb)
 
-### 8. International Students Mental Health Analysis (SQL Project)
-- PostgreSQL analysis on impact of stay duration on mental health.
+### 9. International Students Mental Health Analysis (SQL Project)
+- PostgreSQL queries on stay duration vs mental health indicators.
 - Notebook: [Project_SQL_Original_Students_Mental_Health.ipynb](Project_SQL_Original_Students_Mental_Health.ipynb)
 
-### 9. NYC Public School SAT Performance Analysis
-- Pandas analysis to identify top math schools, overall best schools, borough variability.
+### 10. NYC Public School SAT Performance Analysis
+- Borough variability and top performers via Pandas aggregation.
 - Notebook: [NYC_Project_DataCamp.ipynb](NYC_Project_DataCamp.ipynb)
 
-### 10. Two-Way ANOVA: Braking Performance Analysis
-- Two-way ANOVA using SciPy and Pandas.
+### 11. Two-Way ANOVA: Braking Performance Analysis
+- Factor interaction analysis (SciPy, Pandas).
 - Notebook: [ANOVA 2 ways- braking example.ipynb](ANOVA%202%20ways-%20braking%20example.ipynb)
 
 ## About Me
-- Data Scientist experienced in analytics, statistical modeling, machine learning, data analysis.
-- M.Sc. Industrial Engineering - Data Analytics Specialization (Politecnico di Milano & KIT, Jul 2024).
-- Focused on applying Data Science and ML to real-world problems.
+- Data Scientist experienced in analytics, statistical modeling, ML, EDA, and Python tooling.
+- M.Sc. Industrial Engineering - Data Analytics (Politecnico di Milano & KIT in Italy and Germany, Jul 2024).
+- Focus: Turning operational and reliability data into actionable insights.
 
 ## Tech Stack Highlights
-- Python (Pandas, NumPy, SciPy, Matplotlib, TensorFlow, scikit-learn)
-- SQL (PostgreSQL)
-- Statistical analysis & ML algorithms
+- Python: Pandas, NumPy, SciPy, Matplotlib, TensorFlow, scikit-learn, Tkinter.
+- SQL: PostgreSQL.
+- ML: Regression, Classification, Trees/Ensembles, Neural Networks.
+- Statistics & EDA: ANOVA, distribution analysis, feature exploration.
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/hossein-bolouri
