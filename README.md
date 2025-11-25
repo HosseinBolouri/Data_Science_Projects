@@ -1,6 +1,6 @@
 # Data Science, Machine Learning & Data Analysis Projects
 
-Data Science portfolio showcasing Python (Pandas, NumPy, SciPy, stats, Matplotlib, TensorFlow, scikit-learn, TKinter), SQL (PostgreSQL), Machine Learning (ML), Statistical Analysis, and Exploratory Data Analysis projects from DataCamp, Coursera, STMicroelectronics professional work, and independent study.
+Data Science portfolio showcasing Python (Pandas, NumPy, SciPy, stats, Matplotlib, TensorFlow, scikit-learn, TKinter), SQL (PostgreSQL), Machine Learning (ML), Statistical Analysis, and Exploratory Data Analysis projects from DataCamp, Coursera, competitions, STMicroelectronics professional work, and independent study.
 
 ## Projects
 ### 1. STMicroelectronics Data Control Tower (Desktop EDA Application)
@@ -10,7 +10,7 @@ Data Science portfolio showcasing Python (Pandas, NumPy, SciPy, stats, Matplotli
 
 ### 2. Univariate Linear Regression: City Profit Prediction (Supervised Learning)
 - Linear regression from scratch (cost, gradient descent) to predict profit from population (ex1data1.txt).
-- Notebook: [Univariate Linear Regression City Profit Prediction.ipynb](https://github.com/HosseinBolouri/data-science-ml-projects/blob/main/Univariate%20Linear%20Regression%20City%20Profit%20Prediction.ipynb)
+- Notebook: [univariate-linear-regression-city-profit.ipynb](https://github.com/HosseinBolouri/data-science-ml-projects/blob/main/univariate-linear-regression-city-profit.ipynb)
 
 ### 3. Logistic Regression: Exam Admission Classification (Supervised Learning)
 - From-scratch logistic regression (sigmoid, cost, gradient, decision boundary).
