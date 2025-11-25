@@ -51,7 +51,7 @@ Data Science portfolio showcasing Python (Pandas, NumPy, SciPy, stats, Matplotli
 ## About Me
 - Data Scientist experienced in analytics, statistical modeling, ML, EDA, and Python tooling.
 - M.Sc. Industrial Engineering - Data Analytics (Politecnico di Milano & KIT in Italy and Germany, Jul 2024).
-- Focus: Turning operational and reliability data into actionable insights.
+- Focus: Turning buisness data into actionable insights.
 
 ## Tech Stack Highlights
 - Python: Pandas, NumPy, SciPy, Matplotlib, TensorFlow, scikit-learn, Tkinter.
