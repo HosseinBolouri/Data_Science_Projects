@@ -3,7 +3,7 @@
 Data Science portfolio showcasing Python (Pandas, NumPy, SciPy, stats, Matplotlib, TensorFlow, scikit-learn, TKinter), SQL (PostgreSQL), Machine Learning (ML), Statistical Analysis, and Exploratory Data Analysis projects from DataCamp, Coursera, STM professional work, and independent study.
 
 ## Projects
-### 1. STM Data Control Tower (Desktop EDA Application)
+### 1. STMicroelectronics Data Control Tower (Desktop EDA Application)
 - Tkinter GUI for exploratory data analysis (EDA) across product lines.
 - Functions: Excel ingestion, structured data manipulation (pandas/numpy), limit extraction, failure detection, multi dataset aggregation, distribution & trend plotting (matplotlib), automated outputs.
 - File: [Data_Control_Tower_V1_1.py](https://github.com/HosseinBolouri/data-science-ml-projects/blob/main/Data_Control_Tower_V1_1.py)
