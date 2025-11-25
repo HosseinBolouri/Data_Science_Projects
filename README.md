@@ -1,6 +1,6 @@
 # Data Science, Machine Learning & Data Analysis Projects
 
-Data Science portfolio showcasing Python (Pandas, NumPy, SciPy, stats, Matplotlib, TensorFlow, scikit-learn, TKinter), SQL (PostgreSQL), Machine Learning (ML), Statistical Analysis, and Exploratory Data Analysis projects from DataCamp, Coursera, STM professional work, and independent study.
+Data Science portfolio showcasing Python (Pandas, NumPy, SciPy, stats, Matplotlib, TensorFlow, scikit-learn, TKinter), SQL (PostgreSQL), Machine Learning (ML), Statistical Analysis, and Exploratory Data Analysis projects from DataCamp, Coursera, STMicroelectronics professional work, and independent study.
 
 ## Projects
 ### 1. STMicroelectronics Data Control Tower (Desktop EDA Application)
