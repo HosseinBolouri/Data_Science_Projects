@@ -1,11 +1,11 @@
 # Data Science, Machine Learning & Data Analysis Projects
 
-Data Science portfolio showcasing Python (Pandas, NumPy, SciPy, stats, Matplotlib, TensorFlow, scikit-learn, TKinter), SQL (PostgreSQL), Machine Learning (ML), Statistical Analysis, and Exploratory Data Analysis projects from DataCamp, Coursera, competitions, STMicroelectronics professional work, and independent study.
+Data Science portfolio showcasing Python (Pandas, NumPy, SciPy, stats, Matplotlib, TensorFlow, scikit-learn, TKinter), SQL (PostgreSQL), Machine Learning (ML), Statistical Analysis, and Exploratory Data Analysis projects from DataCamp, Coursera, online competitions, STMicroelectronics professional work, and independent study.
 
 ## Projects
-### 1. STMicroelectronics Data Control Tower (Desktop EDA Application)
-- Tkinter GUI for exploratory data analysis (EDA) across product lines.
-- Functions: Excel ingestion, structured data manipulation (pandas/numpy), limit extraction, failure detection, multi dataset aggregation, distribution & trend plotting (matplotlib), automated outputs.
+### 1. STMicroelectronics Data Analysis Control Tower Software (Desktop EDA Application)
+- Tkinter GUI design for exploratory data analysis (EDA) across product lines.
+- Functions: Excel ingestion, structured data manipulation (pandas/numpy), failure detection, multi dataset aggregation, distribution & trend plotting (matplotlib), automated outputs.
 - File: [Data_Control_Tower_V1_1.py](https://github.com/HosseinBolouri/data-science-ml-projects/blob/main/Data_Control_Tower_V1_1.py)
 
 ### 2. Univariate Linear Regression: City Profit Prediction (Supervised Learning)
